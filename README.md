@@ -1,6 +1,6 @@
 # npmdoc-botbuilder
 
-#### api documentation for  [botbuilder (v3.7.0)](https://github.com/Microsoft/BotBuilder#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-botbuilder.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-botbuilder) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-botbuilder.svg)](https://travis-ci.org/npmdoc/node-npmdoc-botbuilder)
+#### basic api documentation for  [botbuilder (v3.7.0)](https://github.com/Microsoft/BotBuilder#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-botbuilder.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-botbuilder) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-botbuilder.svg)](https://travis-ci.org/npmdoc/node-npmdoc-botbuilder)
 
 #### Bot Builder is a dialog system for building rich bots on virtually any platform.
 
@@ -71,7 +71,8 @@
         "test": "mocha tests/*.js"
     },
     "typings": "./lib/botbuilder.d.ts",
-    "version": "3.7.0"
+    "version": "3.7.0",
+    "bin": {}
 }
 ```
 
